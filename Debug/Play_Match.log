@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\main.cpp(48,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\main.cpp(202,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\main.cpp(202,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\main.cpp(203,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\main.cpp(203,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Play_Match.vcxproj -> C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Match\Debug\Play_Match.exe
